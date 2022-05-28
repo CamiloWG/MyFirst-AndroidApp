@@ -1,0 +1,16 @@
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.deps.json
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.dll
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.pdb
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csproj.AssemblyReference.cache
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfoInputs.cache
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfo.cs
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csproj.CoreCompileInputs.cache
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.dll
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\refint\XamarinApp.dll
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.pdb
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\ref\XamarinApp.dll
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Vistas\MainPage.xaml.g.cs
+F:\CamiloWG\Proyectos Xamarin\First App\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Vistas\ConvertPage.xaml.g.cs

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinApp.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout BackgroundColor="#84b6f4">
+
+        <Label Text="Conversor"
+               HorizontalOptions="CenterAndExpand"
+               FontSize="40"
+               Margin="0, 20, 0, 0"
+               FontAttributes="Bold" />
+
+        <Frame VerticalOptions="FillAndExpand"
+               CornerRadius="20"
+               Margin="20"
+               BackgroundColor="Azure">
+
+            <StackLayout VerticalOptions="Center"
+                         Spacing="20">
+
+                <Image Source="logo_main.png" 
+                       Margin="20,0"/>
+                <Label Text="metros (m) a pulgadas (in)"
+                       HorizontalOptions="Center"
+                       FontSize="Medium"
+                       FontAttributes="Bold" />
+                <Button Text="Iniciar"
+                        TextTransform="None"
+                        BackgroundColor="#95fab9"
+                        CornerRadius="10"
+                        FontSize="Medium"
+                        FontAttributes="Bold" 
+                        TextColor="White"
+                        x:Name="btnIniciar"
+                        Clicked="btnIniciar_Clicked"/>
+
+            </StackLayout>
+        </Frame>
+
+    </StackLayout>
+
+</ContentPage>

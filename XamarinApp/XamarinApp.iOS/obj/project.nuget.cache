@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2HnhegxH5rUxrZH1jWLtLGmrLr8g9Z2YXd117KQdqred3XvdtoG+UybDZeYJL3v7Y797nTg6If/YiTm9AqX3AA==",
+  "success": true,
+  "projectFilePath": "F:\\CamiloWG\\Proyectos Xamarin\\First App\\XamarinApp\\XamarinApp\\XamarinApp.iOS\\XamarinApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2401\\xamarin.forms.visual.material.5.0.0.2401.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
